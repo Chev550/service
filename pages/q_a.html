@@ -1,0 +1,36 @@
+---
+layout: default
+title: "Q&A"
+---
+
+<div class="list-group">
+	<div class="list-group-item active">
+		<h3 class="panel-title">Q&A</h3>
+	</div>
+
+
+	<div class="list-group-item">
+		<form class="contact" action="https://formspree.io/support@sdchina.org.cn" method="POST">
+			<textarea name="Question" value="Submit a question/request..." onfocus="onFocus(this)" onblur="onBlur(this)">Submit a question/request...</textarea>
+			<input type="hidden" name="_next" value="{{ site.baseurl }}/pages/sent/" />
+			From: 
+			<select name="Team">
+				<option>Select team</option>
+				{% for team in site.data.settings.teams %}
+				<option>{{ team.name }}</option>
+				{% endfor %}
+			</select>
+			<button type="submit" class="btn btn-sm btn-primary">Submit</button>
+		</form>
+	</div>
+
+
+	{% for post in site.categories.questions %}
+	<div class="list-group-item">
+		<span class="gray">{{ post.date | date_to_string }}</span>
+		<h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+		<!--p>{{ post.content | strip_html | truncatewords:50 }}</p-->
+		<p>{% include html/post_tags.html %}</p>
+	</div>
+	{% endfor %}
+</div>

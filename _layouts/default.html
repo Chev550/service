@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SDC 2017 | {{ page.title }}</title>
+	{% include head.html %}
+</head>
+
+<body>
+	{% include header.html %}
+	
+
+	<div class="container clearance">
+		<div class="row">
+			<div class="col-sm-8">
+				{{ content }}
+			</div><!-- /.col-sm-4 -->
+
+			<div class="col-sm-4">
+				{% include html/info.html %}
+			</div>
+		</div>
+	</div>
+
+
+	{% include footer.html %}
+</body>
+</html>

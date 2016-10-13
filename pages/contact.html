@@ -1,0 +1,33 @@
+---
+layout: default
+title: "Contact"
+---
+
+<div class="list-group">
+	<div class="list-group-item active">
+		<h3 class="panel-title">Contact</h3>
+	</div>
+	
+	<div class="list-group-item">
+		<form class="contact" action="https://formspree.io/support@sdchina.org.cn" method="POST">
+			<input type="text" name="Subject" value="Subject" onfocus="onFocus(this)" onblur="onBlur(this)">
+			<input type="email" name="Email" value="Email" onfocus="onFocus(this)" onblur="onBlur(this)">
+			<textarea name="Message" value="Message" onfocus="onFocus(this)" onblur="onBlur(this)">Message</textarea>
+			<input type="hidden" name="_next" value="{{ site.baseurl }}/pages/sent/" />
+			<button type="submit" class="btn btn-sm btn-primary">Send</button>
+		</form>
+	</div>
+
+
+	<div class="list-group-item" style="background: url({{ site.baseurl }}/img/map.png) center center; background-size: cover; height: 300px;">
+	</div>
+
+
+	<div class="list-group-item">
+		<strong>Email</strong>: <a href="mailto:support@sdchina.org.cn">support@sdchina.org.cn</a><br>
+		<strong>Tel</strong>: +86 10 590 07012<br>
+		<strong>Fax</strong>: +86 10 590 07013<br>
+		<strong>Website</strong>: <a href="http://www.sdchina.org.cn" target="_blank">http://www.sdchina.org.cn</a><br>
+		<strong>Address</strong>: 6-3, SOHO2 Tower A, Guanghua Road, Chaoyang District, Beijing, P.R.China (100020)
+	</div>
+</div>

@@ -1,0 +1,49 @@
+<header>
+	<!-- Fixed navbar -->
+	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="{{ site.baseurl }}/">Team Service Center</a>
+			</div>
+			<div id="navbar" class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li class="{% if page.url contains 'downloads' %}active{% endif %}"><a href="{{ site.baseurl }}/pages/downloads.html">Downloads</a></li>
+					<li class="{% if page.url contains 'q_a' %}active{% endif %}"><a href="{{ site.baseurl }}/pages/q_a.html">Q&A</a></li>
+					<li class="{% if page.url contains 'submission' %}active{% endif %}"><a href="{{ site.baseurl }}/pages/submission.html">Submission</a></li>
+					<li class="{% if page.url contains 'contact' %}active{% endif %}"><a href="{{ site.baseurl }}/pages/contact.html">Contact</a></li>
+
+
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Teams <span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							{% for team in site.data.settings.teams %}
+							<li><a href="{{ team.url }}" target="_blank">{{ team.name }}</a></li>
+							{% endfor %}
+						</ul>
+					</li>
+
+
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="{{ site.baseurl }}/pages/committee.html">Organizing Committee</a></li>
+							<li class="divider"></li>
+							<li class="dropdown-header">Follow Us</li>
+							<li><a href="http://www.sdchina.org.cn" target="_blank">{% include icons/web.html %} Website</a></li>
+							<li><a href="#">{% include icons/wechat.html %} WeChat</a></li>
+							<li><a href="#">{% include icons/weibo.html %} Weibo</a></li>
+						</ul>
+					</li>
+					
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<!--/.nav-collapse -->
+</header>

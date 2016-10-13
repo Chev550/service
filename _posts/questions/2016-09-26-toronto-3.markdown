@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "What are the accessibility requirements for the homes? If we have a 2 storey unit, do we need an elevator?"
+tag:
+- Building Code
+- Team Toronto
+---
+
+There is no requirement or limitation for an elevator. Teams have freedom to consider this issue based on your own design.
