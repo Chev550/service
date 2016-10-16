@@ -1,21 +1,31 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Horoscope
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
+title: Team Service Center
+baseurl: /service
 markdown: kramdown
+
+
+#--------------------------------
+# Teams
+
+teams:
+- {name: Team BJTU, abr: bjt, title: i-Yard 2.0, url: }
+- {name: Team HKU, abr: hku, title: S(L)OW House, url: }
+- {name: Team Israel, abr: isr, title: The Cactus Home, url: }
+- {name: Team Istanbul, abr: ist, title: ALGAETECH House, url: }
+- {name: Team JIA+, abr: jia, title: JIA+, url: 'http://teamsolarbretagne.fr'}
+- {name: Team Montreal, abr: mon, title: Deep-Performance Dwelling, url: }
+- {name: Team NJFJ, abr: njf, title: DOTTIE, url: }
+- {name: Team SCUT-POLITO, abr: scu, title: SCUT-POLITO, url: 'http://weibo.com/SCUTxPOLITOsdc2017'}
+- {name: Team SEU-TUBS, abr: seu, title: SEU-TUBS, url: }
+- {name: Team Shunya, abr: shu, title: Project Solarise, url: 'http://www.teamshunya.in'}
+- {name: Team SIE, abr: sie, title: Smart Nest, url: }
+- {name: Team SJTUIUC, abr: sjt, title: SJTUIUC, url: }
+- {name: Team Solar Offspring, abr: sol, title: R. E. A. L House, url: }
+- {name: Team SSA, abr: ssa, title: PUR-e House, url: }
+- {name: Team SUES-XD, abr: sue, title: Dancing Sunlight, url: }
+- {name: Team THU, abr: thu, title: WHAO House, url: }
+- {name: Team TJU-TUD, abr: tju, title: Solar House, url: }
+- {name: Team Toronto, abr: tor, title: Stacked Home, url: }
+- {name: Team UNNC Alpha, abr: unn, title: Duo Pension House, url: }
+- {name: Team XAUAT, abr: xau, title: Qiju 2.0, url: }
+- {name: Team Xi'an Mass, abr: xia, title: Xi'an Mass, url: }
+- {name: Team YTU, abr: ytu, title: YTU, url: }
