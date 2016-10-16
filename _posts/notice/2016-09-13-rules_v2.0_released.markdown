@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "RULES V2.0 Released"
+category: notice
 label: Important
 ---
 

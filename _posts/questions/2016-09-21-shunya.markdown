@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "According to the Building Code are we allowed to use EPS/XPS insulation in the buildings exterior walls? If yes are there any limitations we need to know about?"
+category: questions
 tags:
 - Building Code
 - Team Shunya

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What are the accessibility requirements for the homes? If we have a 2 storey unit, do we need an elevator?"
+category: questions
 tag:
 - Building Code
 - Team Toronto

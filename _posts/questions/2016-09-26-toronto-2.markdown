@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Is the concrete pad above grade? If it is, does it count towards the 8m solar envelope?"
+category: questions
 tags:
 - Site
 - Team Toronto

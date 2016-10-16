@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Technical Parameters Due on 30 Sep 2016"
+category: notice
 label: Due
 ---
 

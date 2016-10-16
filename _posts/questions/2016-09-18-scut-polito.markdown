@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Contest 10.2 will restrict the application of PV panel and solar energy. We want to make sure that Contest 10.2 will be the final rule or we need to change our strategy."
+category: questions
 tag:
 - Rules
 - Team SCUT-POLITO
