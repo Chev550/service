@@ -14,7 +14,7 @@ teams:
 - {name: Team JIA+, abr: jia, title: JIA+, url: 'http://teamsolarbretagne.fr'}
 - {name: Team Montreal, abr: mon, title: Deep-Performance Dwelling, url: }
 - {name: Team NJFJ, abr: njf, title: DOTTIE, url: }
-- {name: Team SCUT-POLITO, abr: scu, title: SCUT-POLITO, url: 'http://weibo.com/SCUTxPOLITOsdc2017'}
+- {name: Team SCUT-POLITO, abr: scu, title: SCUT-POLITO, url: }
 - {name: Team SEU-TUBS, abr: seu, title: SEU-TUBS, url: }
 - {name: Team Shunya, abr: shu, title: Project Solarise, url: 'http://www.teamshunya.in'}
 - {name: Team SIE, abr: sie, title: Smart Nest, url: }
@@ -28,4 +28,4 @@ teams:
 - {name: Team UNNC Alpha, abr: unn, title: Duo Pension House, url: }
 - {name: Team XAUAT, abr: xau, title: Qiju 2.0, url: }
 - {name: Team Xi'an Mass, abr: xia, title: Xi'an Mass, url: }
-- {name: Team YTU, abr: ytu, title: YTU, url: }
+- {name: Team YI, abr: yi, title: YI, url: }
