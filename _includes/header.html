@@ -14,7 +14,7 @@
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
 					<li class="{% if page.url contains 'downloads' %}active{% endif %}"><a href="{{ site.baseurl }}/pages/downloads.html">Downloads</a></li>
-					<li class="{% if page.url contains 'q_a' %}active{% endif %}"><a href="{{ site.baseurl }}/pages/q_a.html">Q&A</a></li>
+					<li class="{% if page.url contains 'questions' %}active{% endif %}"><a href="{{ site.baseurl }}/pages/questions.html">Q&A</a></li>
 					<li class="{% if page.url contains 'submission' %}active{% endif %}"><a href="{{ site.baseurl }}/pages/submission.html">Submission</a></li>
 					<li class="{% if page.url contains 'contact' %}active{% endif %}"><a href="{{ site.baseurl }}/pages/contact.html">Contact</a></li>
 
@@ -25,7 +25,7 @@
 							{% for team in site.teams %}
 							<li>
 								{% if team.url %}<a href="{{ team.url }}" target="_blank">{{ team.name }}</a>
-								{% else %}<a href="{{ site.baseurl }}/notice/2016/10/17/web-links-required.html">{{ team.name }}</a>{% endif %}
+								{% else %}<a href="{{ site.baseurl }}/pages/communications.html">{{ team.name }}</a>{% endif %}
 							</li>
 							{% endfor %}
 						</ul>
