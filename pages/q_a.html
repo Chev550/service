@@ -16,7 +16,7 @@ title: "Q&A"
 			From: 
 			<select name="Team">
 				<option>Select team</option>
-				{% for team in site.data.settings.teams %}
+				{% for team in site.teams %}
 				<option>{{ team.name }}</option>
 				{% endfor %}
 			</select>
