@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is there any limits of the number of trucks that can be parked in the parking area of the construction site?"
+title:  "Are there any limits of the number of trucks that can be parked in the parking area of the construction site?"
 category: questions
 tag:
 - Site
