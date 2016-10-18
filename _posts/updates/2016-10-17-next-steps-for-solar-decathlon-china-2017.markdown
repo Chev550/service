@@ -32,11 +32,11 @@ Meeting ID: 166-396-045
 
 ##### 3. Plan for the Second Technical Training Session scheduled on `January 13 to 16, 2017`.
 
-- 13th – Register in Beijing Jiaotong University (stay for the night).
-- 14th morning – Participate in activities held by Beijing Jiaotong University.
-- 14th afternoon – Leave for Dezhou by shuttles.
+- 13th - Register in Beijing Jiaotong University (stay for the night).
+- 14th morning - Participate in activities held by Beijing Jiaotong University.
+- 14th afternoon - Leave for Dezhou by shuttles.
 - 15th to 16th morning - Attend the technical training workshop and forum.
-- 16th afternoon – Back to Beijing by shuttles.
+- 16th afternoon - Back to Beijing by shuttles.
 
 Detailed contents and schedule of the Second Technical Training Session will be provided soon.
  
