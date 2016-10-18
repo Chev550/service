@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Due Dates for Deliverables"
-category: notice
+category: updates
 ---
 
 The exact dates for deliverables in the chart below are tentative that you can use it as a general reference for your future work.
