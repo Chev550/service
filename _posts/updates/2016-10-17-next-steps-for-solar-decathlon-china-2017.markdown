@@ -40,7 +40,8 @@ Meeting ID: 166-396-045
 
 Detailed contents and schedule of the Second Technical Training Session will be provided soon.
  
-Please feel free to contact for any questions.
+Please feel free to [contact][contact] for any questions.
 
 
 [join]: https://global.gotomeeting.com/join/166396045
+[contact]: {{site.baseurl}}/pages/contacts.html

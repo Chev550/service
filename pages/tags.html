@@ -24,7 +24,7 @@ permalink: /tags/
 		<h4 id="#{{ tag_name | slugize }}">#{{ tag_name }}</h4>
 
 		{% for post in site.tags[tag_name] %}
-		<span class="gray f-right">{{ post.date | date_to_string }}</span>
+		<span class="gray pull-right">{{ post.date | date_to_string }}</span>
 		<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 		{% endfor %}
 	</div>
