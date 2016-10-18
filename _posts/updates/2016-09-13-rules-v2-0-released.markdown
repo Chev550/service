@@ -14,17 +14,17 @@ label: Important
 
 #### Rules Updates
 
-__1. Rule 4 Site Operation__
+##### 1. Rule 4 Site Operation
 
 Rule 4-5. The minimum range of the electric vehicle is required to be 100 km. The maximum velocity of the electric vehicle should be no less than 100 km/hr.
 
-__2. Contest 2 Market Appeal__
+##### 2. Contest 2 Market Appeal
 
 The cost of the house should consider the target client’s affordability.
 
 Please refer to RULES 2.0 `Contest 2 Market Appeal` for detailed information.
 
-__3. Contest 5 Innovation__
+##### 3. Contest 5 Innovation
 
 SD China 2017 seeks innovative solutions to crucial environmental problems faced by today’s Northern China such as water shortage, air pollution, and space heating. Therefore, the Innovation jury will look for any unique, creative, and effective strategies successfully addressed these issues in the design.
 
@@ -32,7 +32,7 @@ Other innovative ideas and advanced technologies are also highly encouraged.
 
 Please refer to RULES 2.0 `Contest 5 Innovation` for detailed information.
 
-__4. Contest 6 Comfort Zone__
+##### 4. Contest 6 Comfort Zone
 
 CO2 level and PM2.5 level have been included in this contest, and the available points for each subcontest have been adjusted.
 
@@ -44,7 +44,7 @@ Currently, `6-1 Temperature` accounts for 40 points, `6-2 Humidity` accounts for
 
 Please refer to RULES 2.0 `Contest 6 Comfort Zone` for detailed information.
 
-__5. Contest 9 Commuting__
+##### 5. Contest 9 Commuting
 
 Teams are required to drive an electric vehicle 40 km in no more than 1 hour, four times during contest week, to qualify for points.
 
@@ -54,7 +54,7 @@ The electric vehicle is required to be fully charged before starting the driving
 
 Please refer to RULES 2.0 `Contest 9 Commuting` for detailed information.
 
-__6. Contest 10 Energy Performance__
+##### 6. Contest 10 Energy Performance
 
 Contest 10.2 has been changed from Energy Consumption to Generating Capacity. There are no limitations for PV area, energy production, and energy consumption. However, the generating capacity per unit PV area (kWh/m2) will be measured and calculated. All available points are earned by the team that has the highest generating capacity per unit PV area. Other teams will be scored proportionally.
 
@@ -62,7 +62,7 @@ Currently, `10-1 Energy Balance` accounts for 80 points, `10-2 Generating Capaci
 
 Please refer to RULES 2.0 `Contest 10 Energy Performance` for detailed information.
 
-__7. Appendix A-1__
+##### 7. Appendix A-1
 
 The juried contests announcement has been rescheduled. The results for Contest 1 to 5 (1st, 2nd, 3rd places) will be announced on Day 28 to 32, respectively.
 
