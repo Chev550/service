@@ -25,7 +25,7 @@ teams:
 - {name: Team THU, abr: thu, title: WHAO House, url: }
 - {name: Team TJU-TUD, abr: tju, title: Solar House, url: }
 - {name: Team Toronto, abr: tor, title: Stacked Home, url: }
-- {name: Team UNNC Alpha, abr: unn, title: Duo Pension House, url: }
+- {name: Team UNNC Alpha, abr: unn, title: Duo Pension House, url: 'http://unncalph.com'}
 - {name: Team XAUAT, abr: xau, title: Qiju 2.0, url: }
 - {name: Team Xi'an Mass, abr: xia, title: Xi'an Mass, url: }
 - {name: Team YI, abr: yi, title: YI, url: }
