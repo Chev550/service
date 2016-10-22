@@ -16,17 +16,17 @@ title: "Solar Decathlon China 2017 Teams"
 	<tbody>
 		<tr>
 			<td>1</td>
-			<td>Team BJTU</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/bjt.html">Team BJTU</a></td>
 			<td>Beijing Jiaotong University</td>
 		</tr>
 		<tr>
 			<td>2</td>
-			<td>Team HKU</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/hku.html">Team HKU</a></td>
 			<td>The University of Hong Kong</td>
 		</tr>
 		<tr>
 			<td>3</td>
-			<td>Team Isreal</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/isr.html">Team Isreal</a></td>
 			<td>
 				College of Management Academic Studies (COMAS)<br>
 				Afeka College
@@ -34,7 +34,7 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>4</td>
-			<td>Team Istanbul</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/ist.html">Team Istanbul</a></td>
 			<td>
 				Istanbul Technical University<br>
 				Istanbul Kültür University<br>
@@ -43,7 +43,7 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>5</td>
-			<td>Team JIA+</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/jia.html">Team JIA+</a></td>
 			<td>
 				Shandong University<br>
 				Xiamen University<br>
@@ -58,7 +58,7 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>6</td>
-			<td>Team Montreal</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/mon.html">Team Montreal</a></td>
 			<td>
 				McGill University<br>
 				Concordia University
@@ -66,7 +66,7 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>7</td>
-			<td>Team NJFJ</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/njf.html">Team NJFJ</a></td>
 			<td>
 				New Jersey Institue of Technology<br>
 				Fujian University of Technology
@@ -74,7 +74,7 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>8</td>
-			<td>Team SCUT-POLITO</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/scu.html">Team SCUT-POLITO</a></td>
 			<td>
 				South China University of Technology<br>
 				Politecnico Di Torino
@@ -82,7 +82,7 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>9</td>
-			<td>Team SEU-TUBS</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/seu.html">Team SEU-TUBS</a></td>
 			<td>
 				Southeast University<br>
 				Technical University of Braunschweig
@@ -90,17 +90,17 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>10</td>
-			<td>Team Shunya</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/shu.html">Team Shunya</a></td>
 			<td>Indian Institute of Technology Bombay</td>
 		</tr>
 		<tr>
 			<td>11</td>
-			<td>Team SIE</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/sie.html">Team SIE</a></td>
 			<td>Shenyang Institute of Engineering</td>
 		</tr>
 		<tr>
 			<td>12</td>
-			<td>Team SJTUIUC</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/sjt.html">Team SJTUIUC</a></td>
 			<td>
 				Shanghai Jiaotong University<br>
 				University of Illinois at Urbana Champaign
@@ -108,12 +108,12 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>13</td>
-			<td>Team Solar Offspring</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/sol.html">Team Solar Offspring</a></td>
 			<td>Hunan University</td>
 		</tr>
 		<tr>
 			<td>14</td>
-			<td>Team SSA</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/ssa.html">Team SSA</a></td>
 			<td>
 				Seoul National University<br>
 				Sung Kyun Kwan University<br>
@@ -122,17 +122,17 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>15</td>
-			<td>Team SUES-XD</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/sue.html">Team SUES-XD</a></td>
 			<td>Shanghai University of Engineering Science</td>
 		</tr>
 		<tr>
 			<td>16</td>
-			<td>Team THU</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/thu.html">Team THU</a></td>
 			<td>Tsinghua University</td>
 		</tr>
 		<tr>
 			<td>17</td>
-			<td>Team TJU-TUD</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/tju.html">Team TJU-TUD</a></td>
 			<td>
 				Tongji University<br>
 				Technical University Darmstadt
@@ -140,7 +140,7 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>18</td>
-			<td>Team Toronto</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/tor.html">Team Toronto</a></td>
 			<td>
 				University of Toronto<br>
 				Ryerson University<br>
@@ -149,17 +149,17 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>19</td>
-			<td>Team UNNC Alpha</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/unn.html">Team UNNC Alpha</a></td>
 			<td>University of Nottingham, Ningbo, China</td>
 		</tr>
 		<tr>
 			<td>20</td>
-			<td>Team XAUAT</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/xau.html">Team XAUAT</a></td>
 			<td>Xi'an University of Architecture and Technology</td>
 		</tr>
 		<tr>
 			<td>21</td>
-			<td>Team Xi'an Mass</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/xia.html">Team Xi'an Mass</a></td>
 			<td>
 				Xi'an Jiaotong University<br>
 				Western New England University (WNE)
@@ -167,7 +167,7 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>22</td>
-			<td>Team YI</td>
+			<td><a href="{{ site.baseurl }}/pages/teams/yi.html">Team YI</a></td>
 			<td>
 				Yantai University<br>
 				Illinois Institute of Technology
