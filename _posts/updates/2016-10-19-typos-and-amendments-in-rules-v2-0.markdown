@@ -2,6 +2,7 @@
 layout: page
 title:  "Typos and Amendments in RULES V2.0"
 category: updates
+notice: yes
 ---
 
 ##### Appendix D-4-a. Design Development Drawings and D-6-a. Construction Drawings

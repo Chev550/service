@@ -3,6 +3,7 @@ layout: page
 title:  "RULES V2.0 Released"
 category: updates
 label: Important
+notice: yes
 ---
 
 #### Download
