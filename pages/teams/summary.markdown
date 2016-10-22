@@ -3,7 +3,7 @@ layout: team
 title: "Solar Decathlon China 2017 Teams"
 ---
 
-These teams will compete in Solar Decathlon China 2017 (listed alphabetically by team name):
+`22` teams from `44` universities and `11` countries will compete in Solar Decathlon China 2017 (listed alphabetically by team name):
 
 <table class="table table-striped">
 	<thead>
