@@ -27,6 +27,15 @@
 	text-decoration: none;
 }
 
+.version {
+	display: inline-block;
+	text-align: center;
+	margin: 1em;
+}
+.version h3 {
+	margin: 0.2em;
+}
+
 
 footer {
 	color: gray;
