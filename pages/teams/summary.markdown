@@ -66,7 +66,7 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 		<tr>
 			<td>7</td>
-			<td><a href="{{ site.baseurl }}/pages/teams/njf.html">Team NJFJ</a></td>
+			<td><a href="{{ site.baseurl }}/pages/teams/njf.html">Team NJFT</a></td>
 			<td>
 				New Jersey Institue of Technology<br>
 				Fujian University of Technology
