@@ -1,6 +1,8 @@
 title: Team Service Center
 baseurl: /service
 markdown: kramdown
+gems: [jekyll-paginate]
+paginate: 5
 
 
 #--------------------------------
