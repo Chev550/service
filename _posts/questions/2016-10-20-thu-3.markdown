@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Do we have to determine the location of water supply and drainage on site?"
+category: questions
+tags:
+- Site
+- Team THU
+---
+
+All pipelines are provided from the center of 25m by 25m lot. That's where all cables, water supply and drainage are located.
