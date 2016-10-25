@@ -3,7 +3,7 @@ layout: team
 title: "Solar Decathlon China 2017 Teams"
 ---
 
-`22` teams from `44` universities and `11` countries will compete in Solar Decathlon China 2017 (listed alphabetically by team name):
+`22` teams from `45` universities and `11` countries will compete in Solar Decathlon China 2017 (listed alphabetically by team name):
 
 <table class="table table-striped">
 	<thead>
@@ -175,3 +175,18 @@ title: "Solar Decathlon China 2017 Teams"
 		</tr>
 	</tbody>
 </table>
+
+
+<div class="center">
+	<img src="{{ site.baseurl }}/assets/img/flag_chn.png">
+	<img src="{{ site.baseurl }}/assets/img/flag_usa.png">
+	<img src="{{ site.baseurl }}/assets/img/flag_can.png">
+	<img src="{{ site.baseurl }}/assets/img/flag_kor.png">
+	<img src="{{ site.baseurl }}/assets/img/flag_fra.png">
+	<img src="{{ site.baseurl }}/assets/img/flag_ger.png">
+	<img src="{{ site.baseurl }}/assets/img/flag_ita.png">
+	<img src="{{ site.baseurl }}/assets/img/flag_tur.png">
+	<img src="{{ site.baseurl }}/assets/img/flag_ind.png">
+	<img src="{{ site.baseurl }}/assets/img/flag_isr.png">
+	<img src="{{ site.baseurl }}/assets/img/flag_gbr.png">
+</div>
