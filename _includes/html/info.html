@@ -6,7 +6,7 @@
 	
 	{% for post in site.categories.news limit:5 %}
 	<div class="list-group-item">
-		<span class="gray">{{ post.date | date_to_string }}</span>
+		<p class="gray">{{ post.date | date_to_string }}</p>
 		<p>{{ post.content }}</p>
 		{% if post.img %}
 		<img src="{{ site.baseurl }}/assets/img/news/{{ post.img }}" class="img-thumbnail">
