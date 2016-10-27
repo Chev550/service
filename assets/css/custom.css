@@ -101,8 +101,9 @@ a:hover path {
 }
 
 
-/* upload
+/* submission
 -------------------------------------------------- */
-.upload input {
-	margin: 1em 0;
+
+.submission li {
+	margin-top: 1em;
 }
