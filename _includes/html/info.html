@@ -15,7 +15,7 @@
 		<p class="gray">{{ post.date | date_to_string }}</p>
 		<p>{{ post.content }}</p>
 		{% if post.img %}
-		<a href="{{ site.baseurl }}/assets/img/news/{{ post.img }}"><img src="{{ site.baseurl }}/assets/img/news/{{ post.img }}" class="img-thumbnail"></a>
+		<a href="{{ site.baseurl }}/assets/img/news/{{ post.img }}" target="_blank"><img src="{{ site.baseurl }}/assets/img/news/{{ post.img }}" class="img-thumbnail"></a>
 		{% endif %}
 	</div>
 	{% endfor %}

@@ -5,6 +5,12 @@ category: updates
 notice: yes
 ---
 
+##### Rule 8-2. Batteries
+
+f. Stand-alone, PV-powered devices with small secondary batteries are permitted, but the aggregate battery capacity of these devices may not exceed `10 kWh`, instead of _100 Wh_.
+
+---
+
 ##### Appendix D-4-a. Design Development Drawings and D-6-a. Construction Drawings
 
 Format Requirements. The sheet size is `ISO "A3" (297 mm x 420 mm)`, instead of _ANSI "D" (22 in. x 34 in.)_.
