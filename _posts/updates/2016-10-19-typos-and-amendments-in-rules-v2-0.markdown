@@ -1,8 +1,7 @@
 ---
-layout: page
-title:  "Typos and Amendments in RULES V2.0"
+layout: update
+title: "Typos and Amendments in RULES V2.0"
 category: updates
-notice: yes
 ---
 
 ##### Rule 8-2. Batteries

@@ -1,6 +1,6 @@
 ---
-layout: page
-title:  "Due Dates for Deliverables"
+layout: update
+title: "Due Dates for Deliverables"
 category: updates
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout: page
-title:  "Next Steps for Solar Decathlon China 2017"
+layout: update
+title: "Next Steps for Solar Decathlon China 2017"
 category: updates
 ---
 
