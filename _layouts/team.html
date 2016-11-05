@@ -4,6 +4,13 @@ layout: default
 
 <div class="list-group">
 	<div class="list-group-item active">
+		<select class="pull-right" onchange="self.location.href=options[selectedIndex].value">
+			<option>- Teams -</option>
+			{% for team in site.teams %}
+			<option value="{{ site.baseurl }}/pages/teams/{{ team.abr }}.html">{{ team.name }}</option>
+			{% endfor %}
+		</select>
+
 		<h3 class="panel-title">
 			{{ page.title }}
 		</h3>
