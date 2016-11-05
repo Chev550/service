@@ -1,6 +1,8 @@
 ---
 layout: contest
-title: "Architecture Contest"
+title: "Architecture"
+category: contests
+icon: architecture
 ---
 
 __Architectural Concept and Design Approach__

@@ -1,6 +1,8 @@
 ---
 layout: contest
-title: "Communications Contest"
+title: "Communications"
+category: contests
+icon: communications
 ---
 
 __Communications Strategy__

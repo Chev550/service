@@ -1,6 +1,8 @@
 ---
 layout: contest
-title: "Innovation Contest"
+title: "Innovation"
+category: contests
+icon: innovation
 ---
 
 __Water Usage__

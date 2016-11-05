@@ -1,6 +1,8 @@
 ---
 layout: contest
-title: "Market Appeal Contest"
+title: "Market Appeal"
+category: contests
+icon: market-appeal
 ---
 
 __Livability__

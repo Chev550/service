@@ -1,6 +1,8 @@
 ---
 layout: contest
-title: "Engineering Contest"
+title: "Engineering"
+category: contests
+icon: engineering
 ---
 
 __Innovation__

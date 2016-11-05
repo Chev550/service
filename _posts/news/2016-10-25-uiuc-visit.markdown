@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: update
 title:  "The SDC Organizing Committee visited Team SJTUIUC"
 category: news
 img: img_1.jpg

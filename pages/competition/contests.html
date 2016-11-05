@@ -27,54 +27,11 @@ title:  "Solar Decathlon China 2017 Contests"
 
 		<p>Learn more about the 10 Solar Decathlon China 2017 contests:</p>
 
-		<a class="contest" href="{{ site.baseurl }}/pages/competition/contests/architecture.html">
-			<img src="{{ site.baseurl }}/assets/img/con_architecture.png"><br>
-			Architecture
+		{% for post in site.categories.contests %}
+		<a class="contest" href="{{ site.baseurl }}{{ post.url }}">
+			<img src="{{ site.baseurl }}/assets/img/con_{{ post.icon }}.png"><br>
+			{{ post.title }}
 		</a>
-
-		<a class="contest" href="{{ site.baseurl }}/pages/competition/contests/market.html">
-			<img src="{{ site.baseurl }}/assets/img/con_market.png"><br>
-			Market Appeal
-		</a>
-
-		<a class="contest" href="{{ site.baseurl }}/pages/competition/contests/engineering.html">
-			<img src="{{ site.baseurl }}/assets/img/con_engineering.png"><br>
-			Engineering
-		</a>
-
-		<a class="contest" href="{{ site.baseurl }}/pages/competition/contests/communications.html">
-			<img src="{{ site.baseurl }}/assets/img/con_communications.png"><br>
-			Communications
-		</a>
-
-		<a class="contest" href="{{ site.baseurl }}/pages/competition/contests/innovation.html">
-			<img src="{{ site.baseurl }}/assets/img/con_innovation.png"><br>
-			Innovation
-		</a>
-
-		<a class="contest" href="{{ site.baseurl }}/pages/competition/contests/comfort.html">
-			<img src="{{ site.baseurl }}/assets/img/con_comfort.png"><br>
-			Comfort Zone
-		</a>
-
-		<a class="contest" href="{{ site.baseurl }}/pages/competition/contests/appliances.html">
-			<img src="{{ site.baseurl }}/assets/img/con_appliances.png"><br>
-			Appliances
-		</a>
-
-		<a class="contest" href="{{ site.baseurl }}/pages/competition/contests/home.html">
-			<img src="{{ site.baseurl }}/assets/img/con_home.png"><br>
-			Home Life
-		</a>
-
-		<a class="contest" href="{{ site.baseurl }}/pages/competition/contests/commuting.html">
-			<img src="{{ site.baseurl }}/assets/img/con_commuting.png"><br>
-			Commuting
-		</a>
-
-		<a class="contest" href="{{ site.baseurl }}/pages/competition/contests/energy.html">
-			<img src="{{ site.baseurl }}/assets/img/con_energy.png"><br>
-			Energy Performance
-		</a>
+		{% endfor %}
 	</div>
 </div>
