@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: question
 title:  "Part of our Design Development can not be completely finished. For instance, the manufacturer, product model of some of our facilities have not been decided. Can we leave these information blank?"
 category: questions
 tags:

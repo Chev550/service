@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: question
 title: "Is the concrete pad above grade? If it is, does it count towards the 8.4m solar envelope?"
 category: questions
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: question
 title:  "If a house includes both front and rear entrances, is a wheelchair ramp necessary to both?"
 category: questions
 tags:

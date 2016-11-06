@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: question
 title:  "Do we have to determine the location of water supply and drainage on site?"
 category: questions
 tags:

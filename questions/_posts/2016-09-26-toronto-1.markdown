@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: question
 title:  "We intend on submitting a request for a house power supply of 240V, 60Hz. And in Canada, we only use single-phase."
 category: questions
 tag:

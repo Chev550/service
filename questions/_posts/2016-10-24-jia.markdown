@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: question
 title:  "In the Building Code V1.0, values related to wind and snow loads and earthquake-resistant intensity have been crossed out. Would you please give us the correct values for the city of Dezhou?"
 category: questions
 tags:

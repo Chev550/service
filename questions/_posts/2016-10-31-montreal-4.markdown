@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: question
 title:  "Will water closets be connected to the sewage systems? Can water closets be connected to the principle water supply or must they make use of recycled water?"
 category: questions
 tags:

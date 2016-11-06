@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: question
 title:  "Must the final design documents be produced in coordination with or reproduced by Chinese design institutes and approved by an authorized auditing centre? "
 category: questions
 tags:

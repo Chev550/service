@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: question
 title:  "Are indoor fire hose reels or portable fire hoses necessary if fire extinguishers are provided?"
 category: questions
 tags:

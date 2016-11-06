@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: question
 title:  "If we don’t use urban recycled water, rainwater, building reclaimed water, etc., is it possible to use tap water for landscape or greening?"
 category: questions
 tags:
