@@ -12,7 +12,7 @@ permalink: /tags/
 
 	<div class="list-group-item">
 		{% for tag in site.tags %}
-		<a class="btn btn-xs btn-default" href="#{{ tag | first | slugize }}">#{{ tag | first }}</a>
+		<a class="btn btn-xs btn-default tag-cloud" href="#{{ tag | first | slugize }}">#{{ tag | first }}</a>
 		{% endfor %}
 	</div>
 

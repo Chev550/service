@@ -7,4 +7,4 @@ tags:
 - Team THU
 ---
 
-All pipelines are provided from the center of 25m by 25m lot. That's where all cables, water supply and drainage are located.
+The position of plumbing and electrical mains is provided by default at the center of the 25m by 25m lot. However, it can be customized and adjusted upon teams’ request. Teams are required to notify the organizing committee in advance, and provide the foundation drawings indicating your desired connection location.
