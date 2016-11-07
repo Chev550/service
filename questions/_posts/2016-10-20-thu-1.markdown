@@ -7,4 +7,4 @@ tags:
 - Team THU
 ---
 
-You have to define your own fire water tank. The municipal distribution system will not provide you fire demand because hydraulic pressures are various for each team.
+You have to define your own fire water tank if you need one. The municipal distribution system will not provide you fire demand because hydraulic pressures are various for each team.
