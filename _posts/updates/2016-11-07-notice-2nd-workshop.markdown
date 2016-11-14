@@ -14,14 +14,14 @@ Each team could have up to `15` members to participate in the workshop.
 
 Teams may attend the workshop in two ways:
 
-1. Arrive in `Beijing` on `January 13th, 2017` and leave for Dezhou by shuttle on January 14th. Beijing Jiaotong University will host teams for one night on 13th, and the cost of accommodation and shuttles will be covered by SDC Committee.
-2. Arrive in `Dezhou` directly on `January 14th, 2017`.
+1. Arrive in `Beijing` on `13 Jan 2017` and leave for Dezhou by shuttle on January 14th. Beijing Jiaotong University will host teams for one night on 13th, and the cost of accommodation and shuttles will be covered by SDC Committee.
+2. Arrive in `Dezhou` directly on `14 Jan 2017`.
 
-Teams can select either way to come, and please notify the organizing committee in advance by filling out <a href="{{ site.baseurl }}/assets/doc/2016-11-07-appendix-1.xlsx" target="_blank">Appendix 1</a> as completely as possible by November 30, 2016. Undetermined information (for instance, flight/train numbers, etc.) can be provided later, but please make sure that the way of arrival and the number of participants shall be submitted on time.
+Teams can select either way to come, and please notify the organizing committee in advance by filling out <a href="{{ site.baseurl }}/assets/doc/2016-11-07-appendix-1.xlsx" target="_blank">Appendix 1</a> as completely as possible by `30 Nov 2016`. Undetermined information (for instance, flight/train numbers, etc.) can be provided later, but please make sure that the way of arrival and the number of participants shall be submitted on time.
 
 #### Scale Model
 
-Your 3D house model shall be mailed to Dezhou directly. The mailing address will be provided later. The 3D model will be open to the public during the second training workshop. Please provide the organizing committee a brief introduction of your house (see <a href="{{ site.baseurl }}/assets/doc/2016-11-07-appendix-2.docx" target="_blank">Appendix 2</a>) by `December 12, 2016`. Up to 5 renderings of your updated design shall also be submitted by this deadline.
+Your 3D house model shall be mailed to Dezhou directly. The mailing address will be provided later. The 3D model will be open to the public during the second training workshop. Please provide the organizing committee a brief introduction of your house (see <a href="{{ site.baseurl }}/assets/doc/2016-11-07-appendix-2.docx" target="_blank">Appendix 2</a>) by `12 Dec 2016`. Up to 5 renderings of your updated design shall also be submitted by this deadline.
 
 Each team will be introducing your house model to the audience and media in 3 to 5 minutes.
 
@@ -37,7 +37,7 @@ Each team will be introducing your house model to the audience and media in 3 to
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="2">January 14</td>
+			<td rowspan="2">14 Jan 2017</td>
 			<td>08:00 ~ 17:00</td>
 			<td>Registration and check-in</td>
 		</tr>
@@ -46,7 +46,7 @@ Each team will be introducing your house model to the audience and media in 3 to
 			<td>SDC Talk I</td>
 		</tr>
 		<tr>
-			<td rowspan="4">January 15</td>
+			<td rowspan="4">15 Jan 2017</td>
 			<td>08:30 ~ 11:30</td>
 			<td rowspan="2">Plenary meeting<br>
 				- <i>Finals arrangement, Scoring system</i><br>
@@ -64,7 +64,7 @@ Each team will be introducing your house model to the audience and media in 3 to
 			<td>SDC Talk II</td>
 		</tr>
 		<tr>
-			<td rowspan="3">January 16</td>
+			<td rowspan="3">16 Jan 2017</td>
 			<td rowspan="2">08:30 ~ 12:00</td>
 			<td>Scale model demonstration</td>
 			
