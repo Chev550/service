@@ -4,11 +4,11 @@
 	</div>
 
 <!-- notice -->
-	<div class="list-group-item">
+	<!--div class="list-group-item">
 		<p class="gray">04 Nov 2016</p>
 		<p>Building Code V2.0 Released.</p>
 		<a class="btn btn-xs btn-primary" href="{{ site.baseurl }}/assets/doc/SDC2017_Building_Code_V2.0.pdf" target="_blank">Download</a>
-	</div>
+	</div-->
 
 <!-- news -->
 	{% for post in site.categories.news limit:5 %}
@@ -16,7 +16,7 @@
 		<p class="gray">{{ post.date | date_to_string }}</p>
 		<p>{{ post.content }}</p>
 		{% if post.img %}
-		<a href="{{ site.baseurl }}/assets/img/news/{{ post.img }}" target="_blank"><img src="{{ site.baseurl }}/assets/img/news/{{ post.img }}" class="img-thumbnail"></a>
+		<a href="{{ site.baseurl }}/assets/img/news/{{ post.img }}_.jpg" target="_blank"><img src="{{ site.baseurl }}/assets/img/news/{{ post.img }}.jpg" class="img-thumbnail"></a>
 		{% endif %}
 	</div>
 	{% endfor %}
