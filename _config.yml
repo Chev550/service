@@ -1,9 +1,9 @@
 title: Team Service Center
 baseurl: /service
 markdown: kramdown
-gems: [jekyll-paginate]
-paginate: 5
-paginate_path: "questions/page:num"
+# gems: [jekyll-paginate]
+# paginate: 5
+# paginate_path: "questions/page:num"
 
 
 #--------------------------------
