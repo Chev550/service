@@ -4,8 +4,5 @@ title: "Team SEU-TUBS"
 abr: seu
 ---
 
-Team website: 
-
----
 
 #### Contact

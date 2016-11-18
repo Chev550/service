@@ -4,8 +4,5 @@ title: "Team SUES-XD"
 abr: sue
 ---
 
-Team website: 
-
----
 
 #### Contact

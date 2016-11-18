@@ -4,8 +4,5 @@ title: "Team SJTUIUC"
 abr: sjt
 ---
 
-Team website: 
-
----
 
 #### Contact

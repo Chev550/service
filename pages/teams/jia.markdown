@@ -2,10 +2,8 @@
 layout: team
 title: "Team JIA+"
 abr: jia
+web: http://teamsolarbretagne.fr
 ---
 
-Team website: 
-
----
 
 #### Contact

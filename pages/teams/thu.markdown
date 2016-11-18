@@ -4,8 +4,5 @@ title: "Team THU"
 abr: thu
 ---
 
-Team website: 
-
----
 
 #### Contact

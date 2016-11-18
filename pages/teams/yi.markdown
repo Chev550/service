@@ -4,8 +4,5 @@ title: "Team YI"
 abr: yi
 ---
 
-Team website: 
-
----
 
 #### Contact
