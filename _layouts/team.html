@@ -1,25 +1,52 @@
 ---
-layout: default
+layout: wide
 ---
 
-<div class="list-group">
-	<div class="list-group-item active">
-		<select class="pull-right" onchange="self.location.href=options[selectedIndex].value">
-			<option>- Teams -</option>
-			{% for team in site.teams %}
-			<option value="{{ site.baseurl }}/pages/teams/{{ team.abr }}.html">{{ team.name }}</option>
-			{% endfor %}
-		</select>
+<div class="col-sm-8">
+	<div class="list-group">
+		<div class="list-group-item active">
+			<select class="pull-right" onchange="self.location.href=options[selectedIndex].value">
+				<option>- Teams -</option>
+				{% for team in site.teams %}
+				<option value="{{ site.baseurl }}/pages/teams/{{ team.abr }}.html">{{ team.name }}</option>
+				{% endfor %}
+			</select>
 
-		<h3 class="panel-title">
-			{{ page.title }}
-		</h3>
+			<h3 class="panel-title">
+				{{ page.title }}
+			</h3>
+		</div>
+
+		<div class="list-group-item" style="background: url({{ site.baseurl }}/assets/img/team_photos/{{ page.abr }}.png) center center; background-size: cover; height: 300px;">Team photo</div>
+
+
+		<div class="list-group-item">
+			{{ content }}
+		</div>
+	</div>
+</div>
+
+
+<!--============================= info ================================-->
+
+<div class="col-sm-4">
+	<div class="list-group">
+		<div class="list-group-item active">
+			<h3>RANK: <span class="label label-danger"></span></h3>
+			<h3>SCORE: <span class="label label-danger"></span></h3>
+		</div>
 	</div>
 
-	<div class="list-group-item" style="background: url({{ site.baseurl }}/assets/img/team_photos/{{ page.abr }}.png) center center; background-size: cover; height: 300px;">Team photo</div>
 
-	
-	<div class="list-group-item">
-		{{ content }}
+	<div class="list-group">
+		<div class="list-group-item active">
+			<h3 class="panel-title">Team Deliverables</h3>
+		</div>
+
+		<a class="list-group-item" href="#">Project Manual <img src="{{ site.baseurl }}/assets/img/pdf_16.png"></a>
+
+		<a class="list-group-item" href="#">Construction Drawings <img src="{{ site.baseurl }}/assets/img/pdf_16.png"></a>
+
+		<a class="list-group-item" href="#">Menu and Recipes <img src="{{ site.baseurl }}/assets/img/pdf_16.png"></a>
 	</div>
 </div>
