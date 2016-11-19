@@ -12,7 +12,7 @@ markdown: kramdown
 teams:
 - {name: Team BJTU, abr: bjt, title: i-Yard 2.0}
 - {name: Team HKU, abr: hku, title: S(L)OW House}
-- {name: Team Israel, abr: isr, title: The Cactus Home, dd: 18 Nov 2016 }
+- {name: Team Israel, abr: isr, title: The Cactus Home}
 - {name: Team Istanbul, abr: ist, title: ALGAETECH House}
 - {name: Team JIA+, abr: jia, title: JIA+ }
 - {name: Team Montreal, abr: mon, title: Deep-Performance Dwelling}

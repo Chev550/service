@@ -5,4 +5,4 @@ category: news
 img: img_3
 ---
 
-Headed by Prof. Fisch, solar decathletes from Technische Universität Braunschweig interacted with their Chinese partners at Southeast University in Nanjing. [#Team SEU-TUBS]({{ site.baseurl }}/pages/teams/seu.html)
+Headed by Prof. Fisch, solar decathletes from Technische Universität Braunschweig interacted with their Chinese partners at Southeast University in Nanjing. <a href="#">#Team SEU-TUBS</a>
