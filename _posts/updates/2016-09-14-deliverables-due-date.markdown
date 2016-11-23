@@ -18,15 +18,15 @@ The exact dates for deliverables in the chart below are tentative that you can u
 		<tr>
 			<td>18 Nov 2016</td>
 			<td>Design Development</td>
-			<td>Submit online</td>
+			<td><a href="{{ site.baserul }}/pages/submission_dd.html">Submit online</a></td>
 		</tr>
 		<tr>
-			<td>05 Jan 2017</td>
+			<td>31 Dec 2016</td>
 			<td>Scale Model</td>
-			<td>Transport to China on the Second Technical Training Session</td>
+			<td>Mail to Dezhou</td>
 		</tr>
 		<tr>
-			<td>17 Feb 2017</td>
+			<td>17 Mar 2017</td>
 			<td>Construction Design</td>
 			<td>Submit online</td>
 		</tr>

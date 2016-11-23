@@ -1,6 +1,6 @@
 ---
 layout: team
-title: "Team NJFT"
+title: "Team NJFJ"
 abr: njf
 ---
 
