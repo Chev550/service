@@ -23,7 +23,7 @@ The exact dates for deliverables in the chart below are tentative that you can u
 		<tr>
 			<td>31 Dec 2016</td>
 			<td>Scale Model</td>
-			<td>Mail to Dezhou</td>
+			<td><a href="{{ site.baserul }}/pages/submission_sm.html">Mail to Dezhou</a></td>
 		</tr>
 		<tr>
 			<td>17 Mar 2017</td>
