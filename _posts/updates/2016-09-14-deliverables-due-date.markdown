@@ -18,12 +18,12 @@ The exact dates for deliverables in the chart below are tentative that you can u
 		<tr>
 			<td>18 Nov 2016</td>
 			<td>Design Development</td>
-			<td><a href="{{ site.baserul }}/pages/submission_dd.html">Submit online</a></td>
+			<td><a href="{{ site.baseurl }}/pages/submission_dd.html">Submit online</a></td>
 		</tr>
 		<tr>
 			<td>31 Dec 2016</td>
 			<td>Scale Model</td>
-			<td><a href="{{ site.baserul }}/pages/submission_sm.html">Mail to Dezhou</a></td>
+			<td><a href="{{ site.baseurl }}/pages/submission_sm.html">Mail to Dezhou</a></td>
 		</tr>
 		<tr>
 			<td>17 Mar 2017</td>
