@@ -1,7 +1,7 @@
 ---
 layout: team
-title: "Team Toronto"
-abr: tor
+title: "Team Purdue"
+abr: pur
 ---
 
 

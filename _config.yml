@@ -17,6 +17,7 @@ teams:
 - {name: Team JIA+, abr: jia, title: JIA+ }
 - {name: Team Montreal, abr: mon, title: Deep-Performance Dwelling}
 - {name: Team NJFJ, abr: njf, title: DOTTIE}
+- {name: Team Purdue, abr: pur, title: }
 - {name: Team SCUT-POLITO, abr: scu, title: SCUT-POLITO}
 - {name: Team SEU-TUBS, abr: seu, title: SEU-TUBS}
 - {name: Team Shunya, abr: shu, title: Project Solarise}
@@ -27,7 +28,6 @@ teams:
 - {name: Team SUES-XD, abr: sue, title: Dancing Sunlight}
 - {name: Team THU, abr: thu, title: WHAO House}
 - {name: Team TJU-TUD, abr: tju, title: Solar House}
-- {name: Team Toronto, abr: tor, title: Stacked Home}
 - {name: Team UNNC Alpha, abr: unn, title: Duo Pension House}
 - {name: Team XAUAT, abr: xau, title: Qiju 2.0}
 - {name: Team Xi'an Mass, abr: xia, title: Xi'an Mass}
