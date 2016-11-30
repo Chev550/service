@@ -1,6 +1,6 @@
 ---
 layout: contest
-title: "Innovation"
+title: "5. Innovation"
 category: contests
 icon: innovation
 ---

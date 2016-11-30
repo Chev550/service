@@ -1,6 +1,6 @@
 ---
 layout: contest
-title: "Architecture"
+title: "1. Architecture"
 category: contests
 icon: architecture
 ---

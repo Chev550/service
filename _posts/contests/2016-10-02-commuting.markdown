@@ -1,6 +1,6 @@
 ---
 layout: contest
-title: "Commuting"
+title: "9. Commuting"
 category: contests
 icon: commuting
 ---

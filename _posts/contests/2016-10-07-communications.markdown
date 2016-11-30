@@ -1,6 +1,6 @@
 ---
 layout: contest
-title: "Communications"
+title: "4. Communications"
 category: contests
 icon: communications
 ---

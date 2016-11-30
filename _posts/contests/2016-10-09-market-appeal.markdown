@@ -1,6 +1,6 @@
 ---
 layout: contest
-title: "Market Appeal"
+title: "2. Market Appeal"
 category: contests
 icon: market-appeal
 ---
