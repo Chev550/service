@@ -4,7 +4,7 @@ title: "Due Dates for Deliverables"
 category: updates
 ---
 
-The exact dates for deliverables in the chart below are tentative that you can use it as a general reference for your future work.
+The due dates for deliverables in the chart below are tentative that you can use it as a general reference for your future work.
 
 <table class="table table-striped">
 	<thead>
@@ -21,14 +21,34 @@ The exact dates for deliverables in the chart below are tentative that you can u
 			<td><a href="{{ site.baseurl }}/pages/submission_dd.html">Submit online</a></td>
 		</tr>
 		<tr>
+			<td>12 Dec 2016</td>
+			<td>Scale Model Description</td>
+			<td>Submit via email</td>
+		</tr>
+		<tr>
+			<td>16 Dec 2016</td>
+			<td>Health and Safety Plan</td>
+			<td>Submit via email</td>
+		</tr>
+		<tr>
 			<td>31 Dec 2016</td>
 			<td>Scale Model</td>
 			<td><a href="{{ site.baseurl }}/pages/submission_sm.html">Mail to Dezhou</a></td>
 		</tr>
 		<tr>
-			<td>17 Mar 2017</td>
-			<td>Construction Design</td>
+			<td>24 Mar 2017</td>
+			<td>Construction Documentation</td>
 			<td>Submit online</td>
+		</tr>
+		<tr>
+			<td>31 May 2017</td>
+			<td>Final Drawings, Project Manual, and Dinner Menu</td>
+			<td>Submit online</td>
+		</tr>
+		<tr>
+			<td>30 Jun 2017</td>
+			<td>Building Assembly Materials</td>
+			<td>Transport to Dezhou</td>
 		</tr>
 	</tbody>
 </table>
