@@ -21,7 +21,7 @@ Teams can select either way to come, and please notify the organizing committee 
 
 #### Scale Model
 
-Your 3D house model shall be mailed to Dezhou directly. The mailing address will be provided later. The 3D model will be open to the public during the second training workshop. Please provide the organizing committee a brief introduction of your house (see <a href="{{ site.baseurl }}/assets/doc/2016-11-07-appendix-2.docx" target="_blank">Appendix 2</a>) by `12 Dec 2016`. Up to 5 renderings of your updated design shall also be submitted by this deadline.
+Your 3D house model shall be mailed to Dezhou directly. The mailing address is provided <a href="{{ site.baseurl }}/pages/submission_sm.html">here</a>. The 3D model will be open to the public during the second training workshop. Please provide the organizing committee a brief introduction of your house (see <a href="{{ site.baseurl }}/assets/doc/2016-11-07-appendix-2.docx" target="_blank">Appendix 2</a>) by `12 Dec 2016`. Up to 5 renderings of your updated design shall also be submitted by this deadline.
 
 Each team will be introducing your house model to the audience and media in 3 to 5 minutes.
 
