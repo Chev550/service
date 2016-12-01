@@ -14,7 +14,7 @@ Each team could have up to `15` members to participate in the workshop.
 
 Teams may attend the workshop in two ways:
 
-1. Arrive in `Beijing` on `12 Jan 2017` and leave for Dezhou by shuttle on January 13th. Beijing Jiaotong University will host teams for one night on 13th, and the cost of accommodation and shuttles will be covered by SDC Committee.
+1. Arrive in `Beijing` on `12 Jan 2017` and leave for Dezhou by shuttle on January 13th. Beijing Jiaotong University will host teams for one night on 12th, and the cost of accommodation and shuttles will be covered by SDC Committee.
 2. Arrive in `Dezhou` directly on `13 Jan 2017`.
 
 Teams can select either way to come, and please notify the organizing committee in advance by filling out <a href="{{ site.baseurl }}/assets/doc/2016-11-07-appendix-1.xlsx" target="_blank">Appendix 1</a> as completely as possible by `30 Nov 2016`. Undetermined information (for instance, flight/train numbers, etc.) can be provided later, but please make sure that the way of arrival and the number of participants shall be submitted on time.
