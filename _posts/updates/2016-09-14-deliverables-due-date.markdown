@@ -17,7 +17,7 @@ The due dates for deliverables in the chart below are tentative that you can use
 	<tbody>
 		<tr>
 			<td>18 Nov 2016</td>
-			<td>Design Development</td>
+			<td>Design Development (Rules Appendix D-4)</td>
 			<td><a href="{{ site.baseurl }}/pages/submission_dd.html">Submit online</a></td>
 		</tr>
 		<tr>
@@ -37,18 +37,28 @@ The due dates for deliverables in the chart below are tentative that you can use
 		</tr>
 		<tr>
 			<td>24 Mar 2017</td>
-			<td>Construction Documentation</td>
+			<td>Construction Documentation (Rules Appendix D-6)</td>
+			<td>Submit online</td>
+		</tr>
+		<tr>
+			<td>19 May 2017</td>
+			<td>Project Summary & Public Exhibit Materials (Rules Appendix D-7)</td>
 			<td>Submit online</td>
 		</tr>
 		<tr>
 			<td>31 May 2017</td>
-			<td>Final Drawings, Project Manual, and Dinner Menu</td>
+			<td>Jury Deliverables (Rules Appendix D-8)</td>
 			<td>Submit online</td>
 		</tr>
 		<tr>
 			<td>30 Jun 2017</td>
 			<td>Building Assembly Materials</td>
 			<td>Transport to Dezhou</td>
+		</tr>
+		<tr>
+			<td>20 Sep 2017</td>
+			<td>Final Report</td>
+			<td>Submit via email</td>
 		</tr>
 	</tbody>
 </table>
