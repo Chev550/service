@@ -30,3 +30,16 @@ $(window).scroll(function() {
         $('#toTop').fadeOut("fast");
     }
 });
+
+
+
+// House Description -- English and Chinese
+function chn(){
+	$("div#eng").hide();
+	$("div#chn").toggle("slow");
+	return false;
+}
+function eng(){
+	$("div#chn").hide();
+	$("div#eng").toggle("slow");
+}
