@@ -22,7 +22,7 @@ The due dates for deliverables in the chart below are tentative that you can use
 		</tr>
 		<tr>
 			<td>12 Dec 2016</td>
-			<td>Scale Model Description</td>
+			<td><a href="{{ site.baseurl }}/assets/doc/2016-11-07-appendix-2.docx" target="_blank">Scale Model Description</a></td>
 			<td>Submit via email</td>
 		</tr>
 		<tr>
