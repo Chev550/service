@@ -27,7 +27,7 @@ The due dates for deliverables in the chart below are tentative that you can use
 		</tr>
 		<tr>
 			<td>16 Dec 2016</td>
-			<td><a href="{{ site.baseurl }}/assets/doc/Health_and_Safety_Plan_Template.pdf" target="_blank">Health and Safety Plan</a></td>
+			<td><a href="{{ site.baseurl }}/assets/doc/Health_and_Safety_Plan_Template.pdf" target="_blank">Health and Safety Plan</a>, SketchUp Model</td>
 			<td>Submit via email</td>
 		</tr>
 		<tr>
